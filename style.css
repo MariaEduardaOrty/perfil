@@ -8,23 +8,24 @@ body{
 }
 .curiosidades{
     text-align: center;
-   color: #8B0000;
+   color: hsl(0, 100%, 27%);
 }
 .sobre-mim{
     text-align: center;
-    color: #A9A9A9;
+    color: #696969;
 }
 .titulo{
     text-align: center;
-    color:#A9A9A9;
+    color:#696969;
 }
 .titulo2{
     text-align: center;
-    color: #A9A9A9;
+    color: #696969;
 }
 .biografia{
     text-align: center;
     color: #8B0000;
+    
 }
 .foto{
     display: block;
@@ -35,5 +36,24 @@ body{
 }
 .titulo3{
     text-align: center;
-    color: #A9A9A9;
+    color: #696969;
+}
+.item{
+    text-align: center;
+    color: #8B0000;
+}
+.item2{
+    text-align: center;
+    color: #B22222;
+}
+.link{
+    text-align: center;
+    color: #B22222;
+}
+.img{
+    text-align: left;
+    width: 3%;
+}
+.instagram{
+    color: #696969;
 }
