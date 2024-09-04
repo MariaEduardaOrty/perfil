@@ -29,7 +29,7 @@ body{
 }
 .foto{
     display: block;
-    margin-left: 845px;
+    margin-left: 650px;
     transition: margin-right 3s;
     box-sizing: border-box;
     border: 6px;
